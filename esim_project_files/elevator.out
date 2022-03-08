@@ -1,0 +1,1995 @@
+
+No compatibility mode selected!
+
+
+Circuit: * /home/janakiram.emani/janakiram_elevator/elevator/elevator.cir
+
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: v2: no DC value, transient time 0 value used
+Warning: v3: no DC value, transient time 0 value used
+Warning: v4: no DC value, transient time 0 value used
+Warning: v5: no DC value, transient time 0 value used
+Warning: v6: no DC value, transient time 0 value used
+Warning: v7: no DC value, transient time 0 value used
+=============janakiram_elevator : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+rd0                                          0
+rc0                                          0
+rb0                                          0
+ra0                                          0
+rst0                                         0
+clk0                                         0
+net-_r1-pad1_                                0
+floor1                                       0
+net-_r2-pad1_                                0
+floor0                                       0
+net-_r3-pad1_                                0
+dir0                                         0
+v2#branch                                    0
+v3#branch                                    0
+v4#branch                                    0
+v5#branch                                    0
+v6#branch                                    0
+v7#branch                                    0
+a4#branch_1_0                                0
+a4#branch_1_1                                0
+a4#branch_1_2                                0
+
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=1
+ra=1
+rb=1
+rc=1
+rd=1
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=1
+ra=1
+rb=1
+rc=1
+rd=1
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=1
+ra=1
+rb=1
+rc=1
+rd=1
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=1
+ra=1
+rb=1
+rc=1
+rd=1
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=2
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=2
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=3
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=3
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=0
+
+No. of Data Rows : 873
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+binary raw file "/home/janakiram.emani/janakiram_elevator/elevator/elevator.raw"
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: v2: no DC value, transient time 0 value used
+Warning: v3: no DC value, transient time 0 value used
+Warning: v4: no DC value, transient time 0 value used
+Warning: v5: no DC value, transient time 0 value used
+Warning: v6: no DC value, transient time 0 value used
+Warning: v7: no DC value, transient time 0 value used
+No. of Data Columns : 22     
+=============janakiram_elevator : New Iteration===========
+Instance : 2
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 2
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+rd0                                          0
+rc0                                          0
+rb0                                          0
+ra0                                          0
+rst0                                         0
+clk0                                         0
+net-_r1-pad1_                                0
+floor1                                       0
+net-_r2-pad1_                                0
+floor0                                       0
+net-_r3-pad1_                                0
+dir0                                         0
+v2#branch                                    0
+v3#branch                                    0
+v4#branch                                    0
+v5#branch                                    0
+v6#branch                                    0
+v7#branch                                    0
+a4#branch_1_0                                0
+a4#branch_1_1                                0
+a4#branch_1_2                                0
+
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=1
+ra=1
+rb=1
+rc=1
+rd=1
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=1
+ra=1
+rb=1
+rc=1
+rd=1
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=1
+ra=1
+rb=1
+rc=1
+rd=1
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=1
+ra=1
+rb=1
+rc=1
+rd=1
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=2
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=2
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=2
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=1
+floor=3
+dir=1
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=3
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=3
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=1
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=1
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=1
+rb=0
+rc=1
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=0
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+=============janakiram_elevator : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+rst=0
+ra=0
+rb=1
+rc=0
+rd=0
+floor=1
+dir=0
+
+Inside foo after eval.....
+clk=0
+rst=0
+ra=0
+rb=0
+rc=0
+rd=0
+floor=1
+dir=0
+
+No. of Data Rows : 873
+
+Total analysis time (seconds) = 0.039156
+
+Total CPU time (seconds) = 0.079 
+
+Total DRAM available = 257855.305 MB.
+DRAM currently available = 255908.871 MB.
+Maximum ngspice program size =   89.469 MB.
+Current ngspice program size =   11.645 MB.
+
+Shared ngspice pages =    9.551 MB.
+Text (code) pages =    6.285 MB.
+Stack = 0 bytes.
+Library pages =    2.895 MB.
+

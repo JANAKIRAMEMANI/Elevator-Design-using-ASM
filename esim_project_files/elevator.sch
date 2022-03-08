@@ -1,0 +1,549 @@
+EESchema Schematic File Version 2
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:power
+LIBS:eSim_Plot
+LIBS:transistors
+LIBS:conn
+LIBS:eSim_User
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:eSim_Analog
+LIBS:eSim_Devices
+LIBS:eSim_Digital
+LIBS:eSim_Hybrid
+LIBS:eSim_Miscellaneous
+LIBS:eSim_Power
+LIBS:eSim_Sources
+LIBS:eSim_Subckt
+LIBS:eSim_Nghdl
+LIBS:eSim_Ngveri
+LIBS:elevator-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L janakiram_elevator U1
+U 1 1 6220C346
+P -13250 104150
+F 0 "U1" H -10400 105950 60  0000 C CNN
+F 1 "janakiram_elevator" H -10400 106150 60  0000 C CNN
+F 2 "" H -10400 106100 60  0000 C CNN
+F 3 "" H -10400 106100 60  0000 C CNN
+	1    -13250 104150
+	1    0    0    -1  
+$EndComp
+$Comp
+L janakiram_elevator U2
+U 1 1 6220C532
+P 2650 4400
+F 0 "U2" H 5500 6200 60  0000 C CNN
+F 1 "janakiram_elevator" H 5500 6400 60  0000 C CNN
+F 2 "" H 5500 6350 60  0000 C CNN
+F 3 "" H 5500 6350 60  0000 C CNN
+	1    2650 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L adc_bridge_6 U3
+U 1 1 6220C61D
+P 4250 2550
+F 0 "U3" H 4250 2550 60  0000 C CNN
+F 1 "adc_bridge_6" H 4250 2700 60  0000 C CNN
+F 2 "" H 4250 2550 60  0000 C CNN
+F 3 "" H 4250 2550 60  0000 C CNN
+	1    4250 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L dac_bridge_3 U4
+U 1 1 6220C6B4
+P 6800 2550
+F 0 "U4" H 6800 2550 60  0000 C CNN
+F 1 "dac_bridge_3" H 6800 2700 60  0000 C CNN
+F 2 "" H 6800 2550 60  0000 C CNN
+F 3 "" H 6800 2550 60  0000 C CNN
+	1    6800 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse v7
+U 1 1 6220CA3E
+P 3600 3550
+F 0 "v7" H 3400 3650 60  0000 C CNN
+F 1 "pulse" H 3400 3500 60  0000 C CNN
+F 2 "R1" H 3300 3550 60  0000 C CNN
+F 3 "" H 3600 3550 60  0000 C CNN
+	1    3600 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse v6
+U 1 1 6220CAA1
+P 3000 3550
+F 0 "v6" H 2800 3650 60  0000 C CNN
+F 1 "pulse" H 2800 3500 60  0000 C CNN
+F 2 "R1" H 2700 3550 60  0000 C CNN
+F 3 "" H 3000 3550 60  0000 C CNN
+	1    3000 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse v5
+U 1 1 6220CB9C
+P 2400 3550
+F 0 "v5" H 2200 3650 60  0000 C CNN
+F 1 "pulse" H 2200 3500 60  0000 C CNN
+F 2 "R1" H 2100 3550 60  0000 C CNN
+F 3 "" H 2400 3550 60  0000 C CNN
+	1    2400 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse v4
+U 1 1 6220CBFA
+P 1900 3550
+F 0 "v4" H 1700 3650 60  0000 C CNN
+F 1 "pulse" H 1700 3500 60  0000 C CNN
+F 2 "R1" H 1600 3550 60  0000 C CNN
+F 3 "" H 1900 3550 60  0000 C CNN
+	1    1900 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse v3
+U 1 1 6220CC66
+P 1400 3550
+F 0 "v3" H 1200 3650 60  0000 C CNN
+F 1 "pulse" H 1200 3500 60  0000 C CNN
+F 2 "R1" H 1100 3550 60  0000 C CNN
+F 3 "" H 1400 3550 60  0000 C CNN
+	1    1400 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse v2
+U 1 1 6220CCDE
+P 900 3550
+F 0 "v2" H 700 3650 60  0000 C CNN
+F 1 "pulse" H 700 3500 60  0000 C CNN
+F 2 "R1" H 600 3550 60  0000 C CNN
+F 3 "" H 900 3550 60  0000 C CNN
+	1    900  3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR01
+U 1 1 6220CD3B
+P 3600 4200
+F 0 "#PWR01" H 3600 3950 50  0001 C CNN
+F 1 "GND" H 3600 4050 50  0000 C CNN
+F 2 "" H 3600 4200 50  0001 C CNN
+F 3 "" H 3600 4200 50  0001 C CNN
+	1    3600 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 6220CD65
+P -5550 -42100
+F 0 "#PWR02" H -5550 -42350 50  0001 C CNN
+F 1 "GND" H -5550 -42250 50  0000 C CNN
+F 2 "" H -5550 -42100 50  0001 C CNN
+F 3 "" H -5550 -42100 50  0001 C CNN
+	1    -5550 -42100
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 6220CF71
+P 3000 4200
+F 0 "#PWR03" H 3000 3950 50  0001 C CNN
+F 1 "GND" H 3000 4050 50  0000 C CNN
+F 2 "" H 3000 4200 50  0001 C CNN
+F 3 "" H 3000 4200 50  0001 C CNN
+	1    3000 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR04
+U 1 1 6220CFDE
+P 2400 4200
+F 0 "#PWR04" H 2400 3950 50  0001 C CNN
+F 1 "GND" H 2400 4050 50  0000 C CNN
+F 2 "" H 2400 4200 50  0001 C CNN
+F 3 "" H 2400 4200 50  0001 C CNN
+	1    2400 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR05
+U 1 1 6220D00A
+P 1900 4200
+F 0 "#PWR05" H 1900 3950 50  0001 C CNN
+F 1 "GND" H 1900 4050 50  0000 C CNN
+F 2 "" H 1900 4200 50  0001 C CNN
+F 3 "" H 1900 4200 50  0001 C CNN
+	1    1900 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR06
+U 1 1 6220D036
+P 1400 4200
+F 0 "#PWR06" H 1400 3950 50  0001 C CNN
+F 1 "GND" H 1400 4050 50  0000 C CNN
+F 2 "" H 1400 4200 50  0001 C CNN
+F 3 "" H 1400 4200 50  0001 C CNN
+	1    1400 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR07
+U 1 1 6220D062
+P 900 4200
+F 0 "#PWR07" H 900 3950 50  0001 C CNN
+F 1 "GND" H 900 4050 50  0000 C CNN
+F 2 "" H 900 4200 50  0001 C CNN
+F 3 "" H 900 4200 50  0001 C CNN
+	1    900  4200
+	1    0    0    -1  
+$EndComp
+Text GLabel 900  2500 0    60   Input ~ 0
+clk0
+Text GLabel 1400 2600 0    60   Input ~ 0
+rst0
+Text GLabel 1900 2700 0    60   Input ~ 0
+ra0
+Text GLabel 2400 2800 0    60   Input ~ 0
+rb0
+Text GLabel 3000 2900 0    60   Input ~ 0
+rc0
+Text GLabel 3600 3000 0    60   Input ~ 0
+rd0
+$Comp
+L resistor R1
+U 1 1 6220F3F4
+P 7550 2350
+F 0 "R1" H 7600 2480 50  0000 C CNN
+F 1 "1k" H 7600 2300 50  0000 C CNN
+F 2 "" H 7600 2330 30  0000 C CNN
+F 3 "" V 7600 2400 30  0000 C CNN
+	1    7550 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L resistor R2
+U 1 1 6220F487
+P 7550 2650
+F 0 "R2" H 7600 2780 50  0000 C CNN
+F 1 "1k" H 7600 2600 50  0000 C CNN
+F 2 "" H 7600 2630 30  0000 C CNN
+F 3 "" V 7600 2700 30  0000 C CNN
+	1    7550 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L resistor R3
+U 1 1 6220F514
+P 7550 2950
+F 0 "R3" H 7600 3080 50  0000 C CNN
+F 1 "1k" H 7600 2900 50  0000 C CNN
+F 2 "" H 7600 2930 30  0000 C CNN
+F 3 "" V 7600 3000 30  0000 C CNN
+	1    7550 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L capacitor C1
+U 1 1 622104E8
+P 8650 2450
+F 0 "C1" H 8675 2550 50  0000 L CNN
+F 1 "1u" H 8675 2350 50  0000 L CNN
+F 2 "" H 8688 2300 30  0000 C CNN
+F 3 "" H 8650 2450 60  0000 C CNN
+	1    8650 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L capacitor C2
+U 1 1 6221057D
+P 8350 2750
+F 0 "C2" H 8375 2850 50  0000 L CNN
+F 1 "1u" H 8375 2650 50  0000 L CNN
+F 2 "" H 8388 2600 30  0000 C CNN
+F 3 "" H 8350 2750 60  0000 C CNN
+	1    8350 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L capacitor C3
+U 1 1 622105E2
+P 8050 3050
+F 0 "C3" H 8075 3150 50  0000 L CNN
+F 1 "1u" H 8075 2950 50  0000 L CNN
+F 2 "" H 8088 2900 30  0000 C CNN
+F 3 "" H 8050 3050 60  0000 C CNN
+	1    8050 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR08
+U 1 1 622106EC
+P 8650 2600
+F 0 "#PWR08" H 8650 2350 50  0001 C CNN
+F 1 "GND" H 8650 2450 50  0000 C CNN
+F 2 "" H 8650 2600 50  0001 C CNN
+F 3 "" H 8650 2600 50  0001 C CNN
+	1    8650 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR09
+U 1 1 6221072E
+P 8350 2900
+F 0 "#PWR09" H 8350 2650 50  0001 C CNN
+F 1 "GND" H 8350 2750 50  0000 C CNN
+F 2 "" H 8350 2900 50  0001 C CNN
+F 3 "" H 8350 2900 50  0001 C CNN
+	1    8350 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR010
+U 1 1 62210770
+P 8050 3200
+F 0 "#PWR010" H 8050 2950 50  0001 C CNN
+F 1 "GND" H 8050 3050 50  0000 C CNN
+F 2 "" H 8050 3200 50  0001 C CNN
+F 3 "" H 8050 3200 50  0001 C CNN
+	1    8050 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 3100 3600 3000
+Wire Wire Line
+	3550 3000 3650 3000
+Wire Wire Line
+	3600 4000 3600 4200
+Wire Wire Line
+	3000 4200 3000 4000
+Wire Wire Line
+	2400 4200 2400 4000
+Wire Wire Line
+	1900 4200 1900 4000
+Wire Wire Line
+	1400 4200 1400 4000
+Wire Wire Line
+	900  4200 900  4000
+Wire Wire Line
+	3000 2350 3000 3100
+Wire Wire Line
+	3000 2900 3650 2900
+Wire Wire Line
+	2400 3100 2400 2800
+Wire Wire Line
+	2400 2800 3650 2800
+Wire Wire Line
+	1900 3100 1900 2700
+Wire Wire Line
+	1900 2700 3650 2700
+Wire Wire Line
+	1400 3100 1400 2600
+Wire Wire Line
+	1400 2600 3650 2600
+Wire Wire Line
+	900  3100 900  2500
+Wire Wire Line
+	900  2500 3650 2500
+Wire Wire Line
+	7350 2500 7350 2300
+Wire Wire Line
+	7350 2300 7450 2300
+Wire Wire Line
+	7350 2600 7450 2600
+Wire Wire Line
+	7350 2700 7350 2900
+Wire Wire Line
+	7350 2900 7450 2900
+Wire Wire Line
+	7750 2300 8650 2300
+Wire Wire Line
+	7750 2600 8350 2600
+Wire Wire Line
+	7750 2900 8050 2900
+Text GLabel 8900 2200 2    60   Output ~ 0
+dir0
+Text GLabel 8900 2000 2    60   Output ~ 0
+floor0
+Text GLabel 8900 1800 2    60   Output ~ 0
+floor1
+$Comp
+L plot_v1 U12
+U 1 1 6220EEBE
+P 8200 2100
+F 0 "U12" H 8200 2600 60  0000 C CNN
+F 1 "plot_v1" H 8400 2450 60  0000 C CNN
+F 2 "" H 8200 2100 60  0000 C CNN
+F 3 "" H 8200 2100 60  0000 C CNN
+	1    8200 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L plot_v1 U11
+U 1 1 6220EF35
+P 8600 2100
+F 0 "U11" H 8600 2600 60  0000 C CNN
+F 1 "plot_v1" H 8800 2450 60  0000 C CNN
+F 2 "" H 8600 2100 60  0000 C CNN
+F 3 "" H 8600 2100 60  0000 C CNN
+	1    8600 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L plot_v1 U13
+U 1 1 6220F0AE
+P 7800 2100
+F 0 "U13" H 7800 2600 60  0000 C CNN
+F 1 "plot_v1" H 8000 2450 60  0000 C CNN
+F 2 "" H 7800 2100 60  0000 C CNN
+F 3 "" H 7800 2100 60  0000 C CNN
+	1    7800 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L plot_v1 U5
+U 1 1 6220F784
+P 1050 2550
+F 0 "U5" H 1050 3050 60  0000 C CNN
+F 1 "plot_v1" H 1250 2900 60  0000 C CNN
+F 2 "" H 1050 2550 60  0000 C CNN
+F 3 "" H 1050 2550 60  0000 C CNN
+	1    1050 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L plot_v1 U6
+U 1 1 6220F83B
+P 1400 2550
+F 0 "U6" H 1400 3050 60  0000 C CNN
+F 1 "plot_v1" H 1600 2900 60  0000 C CNN
+F 2 "" H 1400 2550 60  0000 C CNN
+F 3 "" H 1400 2550 60  0000 C CNN
+	1    1400 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L plot_v1 U7
+U 1 1 6220F8D0
+P 1950 2550
+F 0 "U7" H 1950 3050 60  0000 C CNN
+F 1 "plot_v1" H 2150 2900 60  0000 C CNN
+F 2 "" H 1950 2550 60  0000 C CNN
+F 3 "" H 1950 2550 60  0000 C CNN
+	1    1950 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L plot_v1 U8
+U 1 1 6220F957
+P 2450 2550
+F 0 "U8" H 2450 3050 60  0000 C CNN
+F 1 "plot_v1" H 2650 2900 60  0000 C CNN
+F 2 "" H 2450 2550 60  0000 C CNN
+F 3 "" H 2450 2550 60  0000 C CNN
+	1    2450 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L plot_v1 U9
+U 1 1 6220F9DC
+P 3000 2550
+F 0 "U9" H 3000 3050 60  0000 C CNN
+F 1 "plot_v1" H 3200 2900 60  0000 C CNN
+F 2 "" H 3000 2550 60  0000 C CNN
+F 3 "" H 3000 2550 60  0000 C CNN
+	1    3000 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L plot_v1 U10
+U 1 1 6220FA5F
+P 3550 2550
+F 0 "U10" H 3550 3050 60  0000 C CNN
+F 1 "plot_v1" H 3750 2900 60  0000 C CNN
+F 2 "" H 3550 2550 60  0000 C CNN
+F 3 "" H 3550 2550 60  0000 C CNN
+	1    3550 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1050 2350 1050 2500
+Connection ~ 1050 2500
+Wire Wire Line
+	1400 2350 1400 2450
+Wire Wire Line
+	1400 2450 1550 2450
+Wire Wire Line
+	1550 2450 1550 2600
+Connection ~ 1550 2600
+Wire Wire Line
+	1950 2350 1950 2700
+Connection ~ 1950 2700
+Wire Wire Line
+	2450 2350 2450 2800
+Connection ~ 2450 2800
+Wire Wire Line
+	3550 2350 3550 3000
+Connection ~ 3600 3000
+Wire Wire Line
+	7800 1900 7800 2900
+Connection ~ 7800 2900
+Wire Wire Line
+	8200 1900 8200 2600
+Connection ~ 8200 2600
+Wire Wire Line
+	8600 1900 8600 2300
+Connection ~ 8600 2300
+Wire Wire Line
+	8900 2200 7800 2200
+Connection ~ 7800 2200
+Wire Wire Line
+	8900 2000 8200 2000
+Connection ~ 8200 2000
+Wire Wire Line
+	8900 1800 8600 1800
+Wire Wire Line
+	8600 1800 8600 1950
+Connection ~ 8600 1950
+$EndSCHEMATC
