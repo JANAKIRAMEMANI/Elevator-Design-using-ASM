@@ -1,4 +1,4 @@
-# Mixed Signal Design of 8 Bit SRAM Implemented using eSIM and NgVeri:
+# Mixed Signal Design of Elevator Implemented using eSIM and NgVeri:
 This repository presents the mixed signal design of an Elevator implemented using eSIM and NgVeri.
 
 # Table of Contents:
