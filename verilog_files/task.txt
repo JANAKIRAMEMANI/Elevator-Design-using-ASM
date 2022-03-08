@@ -1,0 +1,23 @@
+task rbpulse;
+begin
+  rb=1; #10;rb=0;
+end
+endtask
+
+task rapulse;
+begin
+  ra=1; #10;ra=0;
+end
+endtask
+
+task rcpulse;
+begin
+  rc=1; #10;rc=0;
+end
+endtask
+
+task rdpulse;
+begin
+  rd=1; #10;rd=0;
+end
+endtask
